@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div className="col-md-6" id="root">
+
+    </div>
+    <h2> Non React Code! </h2>
+    <script src="/build/bundle.js"> </script>
+  </body>
+</html>
